@@ -1,0 +1,23 @@
+body {
+    font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+    background: #fff url(../assets/fundo.png) repeat-x;
+}
+
+#container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+#topo {
+    height: 170px;
+    background: url(../assets/detalhe-topo.png) no-repeat right top;
+    padding-top: 25px;
+    border: 1px solid lawngreen;
+}
+
+.logo {
+    width: 152px;
+    height: 66px;
+    background: url(../assets/logo.png) no-repeat center;
+    text-indent: -3000px;
+}
