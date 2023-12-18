@@ -1,3 +1,20 @@
-body {
-    background-color: blueviolet;
+.caixa {
+    width: 400px;
+    background: #dedede url(../assets/fundo-arredondamento.png) repeat-y;
+}
+
+.caixa h2 {
+    padding: 10px 20px 0 20px;
+    background: url(../assets/topo2.png) no-repeat left top;
+}
+
+.caixa p {
+    padding: 0 20px;
+    margin-bottom: 0;
+}
+
+.caixa .ultimo {
+    background: url(../assets/baixo2.png) no-repeat left bottom;
+    width: 400px;
+    height: 24px;
 }
